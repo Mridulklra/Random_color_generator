@@ -1,0 +1,15 @@
+/* color.css */
+
+/* Style for the color blocks */
+.color-block {
+  width: 100px; /* Adjust the width as needed */
+  height: 100px; /* Adjust the height as needed */
+  margin: 10px; /* Add some margin for spacing */
+  display: inline-block; /* Arrange color blocks horizontally */
+}
+
+/* Additional styles for better visibility */
+.color-block:hover {
+  cursor: pointer; /* Change cursor on hover */
+  border: 2px solid #333; /* Add a border on hover */
+}
